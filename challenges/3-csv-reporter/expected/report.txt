@@ -1,0 +1,16 @@
+Total Revenue: $22015.00
+
+Top 3 Products by Units Sold:
+  Widget A: 275
+  Widget B: 126
+  Widget C: 75
+
+Revenue by Region:
+  North: $9355.00
+  East: $4290.00
+  South: $4240.00
+  West: $4130.00
+
+Highest Revenue Month: 2024-05 ($4315.00)
+
+Highest Avg Order Value: Widget D ($585.00)

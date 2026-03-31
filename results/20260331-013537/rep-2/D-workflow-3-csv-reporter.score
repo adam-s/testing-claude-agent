@@ -1,0 +1,8 @@
+PASS: Total Revenue is $22015.00
+PASS: Top 3 products correct (Widget A: 275, Widget B: 126, Widget C: 75)
+PASS: Revenue by region correct
+PASS: Highest revenue month is 2024-05 ($4315.00)
+PASS: Highest avg order value is Widget D ($585.00)
+
+5 passed, 0 failed
+RESULT: PASS

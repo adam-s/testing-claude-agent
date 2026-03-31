@@ -1,0 +1,22 @@
+# RUNTIME MODE: Excludes everything from git so agent worktrees are clean.
+# Agents see ONLY their .claude/ config + seed files. No answer keys, no harness.
+# Switch to this with: bash scripts/gitignore-swap.sh run
+
+configs/
+challenges/
+prompts/
+scripts/
+solutions/
+results/
+docs/
+report.py
+analyze.py
+evolve.py
+handoff.md
+*.log
+node_modules/
+__pycache__/
+.claude/plans/
+.gitignore.run
+.gitignore.publish
+README.md

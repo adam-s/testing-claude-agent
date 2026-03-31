@@ -1,0 +1,10 @@
+# PUBLISH MODE: Tracks everything including results for the GitHub repository.
+# Switch to this with: bash scripts/gitignore-swap.sh publish
+
+# Only truly ephemeral artifacts excluded
+solutions/
+handoff.md
+*.log
+node_modules/
+__pycache__/
+.claude/plans/

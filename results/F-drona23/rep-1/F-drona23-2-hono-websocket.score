@@ -1,0 +1,8 @@
+PASS: Server responds on /
+PASS: HTML has button and counter element
+PASS: inc works
+PASS: broadcast works
+PASS: dec works
+
+5 passed, 0 failed
+RESULT: PASS
